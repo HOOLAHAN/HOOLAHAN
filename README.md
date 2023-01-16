@@ -17,6 +17,4 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HOOLAHAN&theme=github"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HOOLAHAN&theme=github"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HOOLAHAN&theme=github"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HOOLAHAN&theme=github&gmtOffset=1"/>
 </div>
