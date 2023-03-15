@@ -6,7 +6,7 @@ I have recently completed the Makers Academy 4-month immersive coding bootcamp, 
 
 I am now looking to expand my experience in a full stack developer role. 
 
-Check out my CV via this [**link**](https://github.com/HOOLAHAN/CV)🔗
+Check out my **CV** via this [**link**](https://drive.google.com/file/d/1nOm3cBanZanC86ZnOuXrj__-nKi3uDv2/view?usp=share_link)🔗 or for a deeper dive into my experience checkout my **GitHub CV** via this [**link**](https://github.com/HOOLAHAN/CV)🔗
 
 **Languages, Frameworks and Databases I have worked with:**
 
