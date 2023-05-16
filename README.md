@@ -33,7 +33,7 @@ Check out my **CV** via this [**link**](https://drive.google.com/file/d/1azgcDKi
 
 | Name               | Description                            | Tech/tools                                              | Link
 | -------------------| ---------------------------------------|---------------------------------------------------------|------------------
-| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API | [Tipsy Tourist Repo](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Website]([https://github.com/HOOLAHAN/tipsy-tourist-server](http://tipsytourist.s3-website.eu-west-2.amazonaws.com/)) 
+| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API | [Tipsy Tourist Repo](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Website](http://tipsytourist.s3-website.eu-west-2.amazonaws.com/)
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
 | **Acebook**        | A social media web page  | MongoDB, Express, React, Node, HTML, CSS   | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
 | **MakersBNB**      | An Airbnb clone which lets users list or book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
