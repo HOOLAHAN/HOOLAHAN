@@ -33,10 +33,10 @@ Check out my **CV** via this [**link**](https://drive.google.com/file/d/1yauBtS4
 
 | Name               | Description                            | Tech/tools                                              | Link
 | -------------------| ---------------------------------------|---------------------------------------------------------|------------------
-| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API | [Tipsy Tourist Repo](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Website](http://tipsytourist.s3-website.eu-west-2.amazonaws.com/)
-|**StratoStruct** |A web page to find local suppliers of prefabricated construction products ranked by proximity | MongoDB, Express, React, Node, HTML, CSS, Mapbox API | [StratoStruct Client](https://github.com/HOOLAHAN/stratostruct_client) + [StratoStruct Server](https://github.com/HOOLAHAN/stratostruct_server) + [StratoStruct Website](http://stratostruct.s3-website.eu-west-2.amazonaws.com/)
+| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API, AWS S3, AWS Lambda | [Tipsy Tourist Repo](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Website](http://tipsytourist.s3-website.eu-west-2.amazonaws.com/)
+|**StratoStruct** |A web page to find local suppliers of prefabricated construction products ranked by proximity | MongoDB, Express, React, Node, HTML, CSS, Mapbox API, AWS S3, AWS EC2 | [StratoStruct Client](https://github.com/HOOLAHAN/stratostruct_client) + [StratoStruct Server](https://github.com/HOOLAHAN/stratostruct_server) + [StratoStruct Website](http://stratostruct.s3-website.eu-west-2.amazonaws.com/)
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
-| **Acebook**        | A social media web page  | MongoDB, Express, React, Node, HTML, CSS   | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
+| **Harbour Contractors Ltd**        | A company website showcasing projects and services  | React, Node, Chakra UI, AWS S3 | [Harbour Contractors Repo](https://github.com/HOOLAHAN/harbour_contractors_client) + [Harbour Contractors Website](http://harbourcontractors.s3-website.eu-west-2.amazonaws.com/contact)
 | **MakersBNB**      | An Airbnb clone which lets users list or book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
 
 
