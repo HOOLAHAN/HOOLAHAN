@@ -22,7 +22,9 @@ To view some live examples of my work you can follow this [**link**](http://www.
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
   <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828"><br>
+  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
+  <img src="https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=chakra-ui&logoColor=319795&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=282828"><br>
   
   <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
   <img src="https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=282828"><br>
@@ -37,7 +39,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 |**StratoStruct** |A web page to find local suppliers of prefabricated construction products ranked by proximity | MongoDB, Express, React, Node, HTML, CSS, Mapbox API, AWS S3, AWS EC2 | [StratoStruct Client](https://github.com/HOOLAHAN/stratostruct_client) + [StratoStruct Server](https://github.com/HOOLAHAN/stratostruct_server) + [StratoStruct Website](http://www.stratostruct.com/)
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API  | [Find A Film Client](https://github.com/HOOLAHAN/Find_A_Film) + [Find A Film Website](http://findafilm.s3-website.eu-west-2.amazonaws.com/)
 | **Harbour Contractors Ltd**        | A company website showcasing projects and services  | React, Node, Chakra UI, Twilio API, AWS S3, AWS Lambda | [Harbour Contractors Client](https://github.com/HOOLAHAN/harbour_contractors_client) + [Harbour Contractors Server](https://github.com/HOOLAHAN/harbour-contractors-lambda) + [Harbour Contractors Website](http://www.harbourcontractors.co.uk/)
-| **MakersBNB**      | An Airbnb clone which lets users list or book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
+| **Yahtzee!**      | A web-based Yahtzee game allowing single players to enjoy the classic dice game with modern UI features |TypeScript, React, Tailwind CSS | [Yahtzee Project](https://github.com/HOOLAHAN/yahtzee) + [Yahtzee! Website](http://yahtzeehub.s3-website.eu-west-2.amazonaws.com/)
 
 
 **GitHub Stats:**
