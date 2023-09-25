@@ -1,6 +1,6 @@
 **Hi, I'm Iain**
 
-I am a full stack software developer with a background in civil engineering and a passion for problem solving, learning, building and collaboration. 
+I am a engineer with a background in civil engineering and a passion for problem solving, continuous learning and collaborative innovation. 
 
 After completing the Makers Academy 4-month immersive coding bootcamp, where I learnt the value of agile, test-driven development with object-oriented design, I am now looking to expand my experience in a full stack developer role. 
 
