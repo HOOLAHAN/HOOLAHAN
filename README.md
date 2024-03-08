@@ -20,6 +20,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
   
   <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
   <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
   <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
@@ -27,7 +28,9 @@ To view some live examples of my work you can follow this [**link**](http://www.
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=282828"><br>
   
   <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=282828"><br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&labelColor=282828"><br>
 </div>
 </p>
 
@@ -35,7 +38,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 
 | Name               | Description                            | Tech/tools                                              | Link
 | -------------------| ---------------------------------------|---------------------------------------------------------|------------------
-| **Yahtzee!**      | A web-based Yahtzee game allowing single players to enjoy the classic dice game with modern UI features |TypeScript, React, Tailwind CSS | [Yahtzee Project](https://github.com/HOOLAHAN/yahtzee) + [Yahtzee! Website](http://yahtzeehub.s3-website.eu-west-2.amazonaws.com/)
+| **Yahtzee!**      | A web-based Yahtzee game allowing single players to enjoy the classic dice game with modern UI features |TypeScript, React, Tailwind CSS, AWS Amplify/Cofnito/DynamoDB, GraphQL | [Yahtzee Project](https://github.com/HOOLAHAN/yahtzee) + [Yahtzee! Website](http://yahtzeehub.s3-website.eu-west-2.amazonaws.com/)
 | **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API, AWS S3, AWS Lambda |[Tipsy Tourist Client](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Server](https://github.com/HOOLAHAN/tipsy-tourst-lambda) + [Tipsy Tourist Website](http://www.tipsytourist.org/)
 |**StratoStruct** |A web page to find local suppliers of prefabricated construction products ranked by proximity | MongoDB, Express, React, Node, HTML, CSS, Mapbox API, AWS S3, AWS EC2 | [StratoStruct Client](https://github.com/HOOLAHAN/stratostruct_client) + [StratoStruct Server](https://github.com/HOOLAHAN/stratostruct_server) + [StratoStruct Website](http://www.stratostruct.com/)
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API  | [Find A Film Client](https://github.com/HOOLAHAN/Find_A_Film) + [Find A Film Website](http://findafilm.s3-website.eu-west-2.amazonaws.com/)
