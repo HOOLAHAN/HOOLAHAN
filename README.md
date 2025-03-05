@@ -4,9 +4,7 @@ I am a software engineer with a background in civil engineering and a passion fo
 
 After completing the Makers Academy 4-month immersive coding bootcamp, where I learnt the value of agile, test-driven development with object-oriented design, I am now looking to expand my experience in a full stack developer role. 
 
-Check out my **CV** via this [**link**](https://drive.google.com/file/d/1WuWESf_7lQBSKlSE_uwhZ8n3q57ltHoR/view?usp=sharing)🔗 or for a deeper dive into my experience checkout my **GitHub CV** via this [**link**](https://github.com/HOOLAHAN/CV)🔗
-
-To view some live examples of my work you can follow this [**link**](http://www.iainhoolahan.com/)🔗 to my online **portfolio**. 
+Check out my **GitHub CV** via this [**link**](https://github.com/HOOLAHAN/CV)🔗 or to view some deployed examples of my work you can follow this [**link**](http://www.iainhoolahan.com/)🔗 to my online **portfolio**. 
 
 **Languages, Frameworks and Databases I have worked with:**
 
