@@ -1,8 +1,8 @@
 **Hi, I'm Iain**
 
-I am a software engineer with a background in civil engineering and a passion for problem solving, continuous learning and collaborative innovation. 
+I am a versatile professional with a strong foundation in software development, civil engineering, and project management. My journey has taken me from delivering complex infrastructure projects like Hinkley Point C and Crossrail to managing bespoke residential developments and, more recently, building full-stack applications after completing the Makers Academy immersive coding bootcamp.
 
-After completing the Makers Academy 4-month immersive coding bootcamp, where I learnt the value of agile, test-driven development with object-oriented design, I am now looking to expand my experience in a full stack developer role. 
+I am passionate about problem-solving, innovation, and leveraging my diverse skill set to tackle technical challenges. Whether developing software solutions or managing engineering projects, I bring a collaborative and results-driven mindset.
 
 Check out my **GitHub CV** via this [**link**](https://github.com/HOOLAHAN/CV)🔗 or to view some deployed examples of my work you can follow this [**link**](http://www.iainhoolahan.com/)🔗 to my online **portfolio**. 
 
