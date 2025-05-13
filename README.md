@@ -1,55 +1,61 @@
-**Hi, I'm Iain**
+# 👋 Hi, I'm Iain
 
-I am a versatile professional with a strong foundation in software development, civil engineering, and project management. My journey has taken me from delivering complex infrastructure projects like Hinkley Point C and Crossrail to managing bespoke residential developments and, more recently, building full-stack applications after completing the Makers Academy immersive coding bootcamp.
+I'm a versatile software engineer with a background in civil engineering and project management. My journey has taken me from delivering large-scale infrastructure projects like **Hinkley Point C** and **Crossrail**, to managing bespoke residential builds, and most recently, building and deploying **full-stack web applications** after completing the Makers Academy immersive coding bootcamp.
 
-I am passionate about problem-solving, innovation, and leveraging my diverse skill set to tackle technical challenges. Whether developing software solutions or managing engineering projects, I bring a collaborative and results-driven mindset.
+I'm passionate about **problem-solving**, **innovation**, and collaborating with great people to tackle meaningful technical challenges. Whether I'm writing clean code or managing complex deliverables, I bring a calm, analytical, and delivery-focused mindset.
 
-Check out my **GitHub CV** via this [**link**](https://github.com/HOOLAHAN/CV)🔗 or to view some deployed examples of my work you can follow this [**link**](http://www.iainhoolahan.com/)🔗 to my online **portfolio**. 
+🔗 **[GitHub CV](https://github.com/HOOLAHAN/CV)**  
+🌐 **[Portfolio – Live Projects](http://www.iainhoolahan.com/)**
 
-**Languages, Frameworks and Databases I have worked with:**
+---
+
+## 🧰 Languages, Frameworks & Tools
 
 <p>
-<div>
-  <img src="https://img.shields.io/badge/-Ruby-cd1d09?style=for-the-badge&logo=ruby&logoColor=cd1d09&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Typescript-3075c0?style=for-the-badge&logo=typescript&logoColor=3075c0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828"><br>
+  <img src="https://img.shields.io/badge/-Ruby-cd1d09?style=for-the-badge&logo=ruby&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaScript-f7e968?style=for-the-badge&logo=javascript&labelColor=282828">
+  <img src="https://img.shields.io/badge/-TypeScript-3075c0?style=for-the-badge&logo=typescript&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&labelColor=282828"><br>
   
-  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
-  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
-  <img src="https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=chakra-ui&logoColor=319795&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=282828"><br>
-  
-  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&labelColor=282828"><br>
-</div>
+  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&labelColor=282828">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&labelColor=282828">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&labelColor=282828">
+  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&labelColor=282828">
+  <img src="https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=chakra-ui&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=282828"><br>
+
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&labelColor=282828">
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&labelColor=282828">
 </p>
 
-**Key Projects:**
+---
 
-| Name               | Description                            | Tech/tools                                              | Link
-| -------------------| ---------------------------------------|---------------------------------------------------------|------------------
-| **Yahtzee!**      | A web-based Yahtzee game allowing single players to enjoy the classic dice game with modern UI features |TypeScript, React, Tailwind CSS, AWS Amplify/Cognito/DynamoDB, GraphQL | [Yahtzee Project](https://github.com/HOOLAHAN/yahtzee) + [Yahtzee! Website](https://d2q1p79jvmctkj.cloudfront.net/)
-| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API, AWS S3, AWS Lambda |[Tipsy Tourist Client](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Server](https://github.com/HOOLAHAN/tipsy-tourst-lambda) + [Tipsy Tourist Website](https://d3pbhrkalr09t8.cloudfront.net/)
-|**StratoStruct** |A web page to find local suppliers of prefabricated construction products ranked by proximity | MongoDB, Express, React, Node, HTML, CSS, Mapbox API, AWS S3, AWS EC2, AWS Lambda | [StratoStruct Client](https://github.com/HOOLAHAN/stratostruct_client) + [StratoStruct Server](https://github.com/HOOLAHAN/stratostruct-lambda) + [StratoStruct Website](https://d1ie9ubho8a451.cloudfront.net/login)
-| **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API  | [Find A Film Client](https://github.com/HOOLAHAN/Find_A_Film) + [Find A Film Website](https://d15ghb6p19akrh.cloudfront.net/)
-| **Harbour Contractors Ltd**        | A company website showcasing projects and services  | React, Node, Chakra UI, Twilio API, AWS S3, AWS Lambda | [Harbour Contractors Client](https://github.com/HOOLAHAN/harbour_contractors_client) + [Harbour Contractors Server](https://github.com/HOOLAHAN/harbour-contractors-lambda) + [Harbour Contractors Website](https://www.harbourcontractors.co.uk/)
-| **PF Geomatics Ltd**        | A company website showcasing projects and services with a serverless backend for messaging | React, TypeScript, Chakra UI, AWS S3, Node.js, AWS Lambda, SendGrid API | [PF Geomatics Client](https://github.com/HOOLAHAN/pfgeomatics) + [PF Geomatics Server](https://github.com/HOOLAHAN/pfg-lambda) + [PF Geomatics Website](https://www.pfgeomatics.com/)
+## 🚀 Key Projects
 
-**GitHub Stats:**
+| Project | Description | Tech | Links |
+|--------|-------------|------|--------|
+| **Yahtzee!** | Single-player version of the classic dice game with a modern UI and leaderboard using AWS Amplify for auth. | TypeScript, React, Tailwind, GraphQL, DynamoDB, AWS Amplify | [GitHub](https://github.com/HOOLAHAN/yahtzee) · [Live](https://d2q1p79jvmctkj.cloudfront.net/) |
+| **Tipsy Tourist** | Route generator for pub crawls and tourist itineraries using Google Maps and a serverless backend. | JavaScript, React, Chakra UI, AWS Lambda, Google API | [Client](https://github.com/HOOLAHAN/tipsy-tourist) · [Server](https://github.com/HOOLAHAN/tipsy-tourist-lambda) · [Live](https://d3pbhrkalr09t8.cloudfront.net/) |
+| **StratoStruct** | Construction industry tool for finding local suppliers ranked by proximity. Admins can manage supplier data. | MongoDB, Express, React, Node, Mapbox, AWS S3/EC2 | [Client](https://github.com/HOOLAHAN/stratostruct_client) · [Server](https://github.com/HOOLAHAN/stratostruct-lambda) · [Live](https://d1ie9ubho8a451.cloudfront.net/login) |
+| **Find A Film** | Movie search tool showing where films can be streamed, rented, or purchased. | TypeScript, React, TMDB API | [GitHub](https://github.com/HOOLAHAN/Find_A_Film) · [Live](https://d15ghb6p19akrh.cloudfront.net/) |
+| **Harbour Contractors Ltd** | Commercial website for a construction company including project listings and contact form. | React, Node, Chakra UI, Twilio API, AWS S3 | [Client](https://github.com/HOOLAHAN/harbour_contractors_client) · [Server](https://github.com/HOOLAHAN/harbour-contractors-lambda) · [Live](https://www.harbourcontractors.co.uk/) |
+| **PF Geomatics Ltd** | Static company site with messaging backend using SendGrid. | React, TypeScript, AWS Lambda, Chakra UI | [Client](https://github.com/HOOLAHAN/pfgeomatics) · [Server](https://github.com/HOOLAHAN/pfg-lambda) · [Live](https://www.pfgeomatics.com/) |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HOOLAHAN&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HOOLAHAN&theme=github" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HOOLAHAN&theme=github"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HOOLAHAN&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HOOLAHAN&theme=github" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HOOLAHAN&theme=github" />
 </div>
+
